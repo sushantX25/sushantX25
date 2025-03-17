@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🛡️ Sushant Sharma | Cybersecurity & Electronics Enthusiast  
+🔹 Interested in **Cybersecurity | Embedded Systems | Ethical Hacking**  
+🔹 Learning **C, C++, Cybersecurity, Arduino, ESP32, Bug Bounty**  
+🔹 Active in **Bug Bounty | CTFs | Open Source Contributions**  
 
-<!--
-**sushantX25/sushantX25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **GitHub Stats:**  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sushantX25&show_icons=true&theme=radical)  
 
-Here are some ideas to get you started:
+🔥 **Top Repositories:**  
+- [WiFi-Deauther](https://github.com/sushantX25/WiFi-Deauther)  
+- [Basic Keylogger](https://github.com/sushantX25/Basic-Keylogger)  
+- [CTF-Writeups](https://github.com/sushantX25/CTF-Writeups)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:** [LinkedIn](#) | [GitHub](#) | [Email](#)  
